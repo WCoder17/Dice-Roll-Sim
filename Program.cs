@@ -9,6 +9,8 @@ Console.WriteLine("3:Roll Dice 'n' times");
 Console.WriteLine("4:Roll Dice until Snake Eyes");
 Console.WriteLine("5:Exit");
 // Main Loop
+int die1 = 0;
+int die2 = 0;
 while (true)
 {
     // Dice Sim Menu
