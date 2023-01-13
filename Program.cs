@@ -8,9 +8,12 @@ Console.WriteLine("2:Roll Dice 5 Times");
 Console.WriteLine("3:Roll Dice 'n' times");
 Console.WriteLine("4:Roll Dice until Snake Eyes");
 Console.WriteLine("5:Exit");
+
+// Create Random Objects
+Random rnd = new Random();
+
 // Main Loop
-int die1 = 0;
-int die2 = 0;
+
 while (true)
 {
     // Dice Sim Menu
@@ -18,12 +21,52 @@ while (true)
     string roll = Console.ReadLine();
 
     // Process Input
-    if (roll == "1") {
-        Console.WriteLine("1 is working");
-    } else if (roll != "1"){
-        Console.WriteLine("1 is working but was not chosen");
-        
-    } else if (roll == "5") {
+    if (roll == "1")
+    {
+        int randNumA = rnd.Next(1, 7);
+        int randNumB = rnd.Next(1, 7);
+        Console.WriteLine($"{randNumA}, {randNumB} (Sum: {randNumA + randNumB})");
+    }
+    else if (roll == "2")
+    {
+        for (int n = 1; n <= 5; n++)
+        {
+            int randNumA = rnd.Next(1, 7);
+            int randNumB = rnd.Next(1, 7);
+            Console.WriteLine($"{randNumA}, {randNumB} (Sum: {randNumA + randNumB})");
+        }
+    }
+    else if (roll == "3")
+    {
+        Console.WriteLine("Enter the number of times you want to roll");
+        double ranD = Convert.ToDouble(Console.ReadLine());
+        for (int n = 1; n <= ranD; n++)
+        {
+            int randNumA = rnd.Next(1, 7);
+            int randNumB = rnd.Next(1, 7);
+            Console.WriteLine($"{randNumA}, {randNumB} (Sum: {randNumA + randNumB})");
+        }
+    }
+    else if (roll == "4")
+    {
+        int rollCnt = 0;
+        while (true)
+        {
+            int randNumA = rnd.Next(1, 8);
+            int randNumB = rnd.Next(1, 8);
+            Console.WriteLine($"{randNumA}, {randNumB} (Sum: {randNumA + randNumB})");
+            rollCnt++;
+            if (randNumA == 7 || randNumB == 7)
+            {
+                Console.WriteLine($"SNAKE EYES! It took {rollCnt} rolls to get snake eyes.");
+
+                break;
+            }
+        }
+    }
+    else if (roll == "5")
+    {
+        Console.WriteLine("Thanks for using the Simulator");
         break;
     }
 }
