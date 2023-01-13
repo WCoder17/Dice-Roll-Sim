@@ -52,11 +52,11 @@ while (true)
         int rollCnt = 0;
         while (true)
         {
-            int randNumA = rnd.Next(1, 8);
-            int randNumB = rnd.Next(1, 8);
+            int randNumA = rnd.Next(1, 7);
+            int randNumB = rnd.Next(1, 7);
             Console.WriteLine($"{randNumA}, {randNumB} (Sum: {randNumA + randNumB})");
             rollCnt++;
-            if (randNumA == 7 || randNumB == 7)
+            if (randNumA == randNumB)
             {
                 Console.WriteLine($"SNAKE EYES! It took {rollCnt} rolls to get snake eyes.");
 
