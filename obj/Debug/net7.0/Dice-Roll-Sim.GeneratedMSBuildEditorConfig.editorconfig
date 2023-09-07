@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Dice_Roll_Sim
-build_property.ProjectDir = F:\cSharpPrograms\Dice Roll Sim\Dice-Roll-Sim\
+build_property.ProjectDir = \\fs-059\studuser$\Gr12\w.veale\GitHub\Dice-Roll-Sim\

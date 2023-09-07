@@ -13,3 +13,18 @@ F:\cSharpPrograms\Dice Roll Sim\Dice-Roll-Sim\obj\Debug\net7.0\refint\Dice-Roll-
 F:\cSharpPrograms\Dice Roll Sim\Dice-Roll-Sim\obj\Debug\net7.0\Dice-Roll-Sim.pdb
 F:\cSharpPrograms\Dice Roll Sim\Dice-Roll-Sim\obj\Debug\net7.0\Dice-Roll-Sim.genruntimeconfig.cache
 F:\cSharpPrograms\Dice Roll Sim\Dice-Roll-Sim\obj\Debug\net7.0\ref\Dice-Roll-Sim.dll
+\\fs-059\studuser$\Gr12\w.veale\GitHub\Dice-Roll-Sim\bin\Debug\net7.0\Dice-Roll-Sim.exe
+\\fs-059\studuser$\Gr12\w.veale\GitHub\Dice-Roll-Sim\bin\Debug\net7.0\Dice-Roll-Sim.deps.json
+\\fs-059\studuser$\Gr12\w.veale\GitHub\Dice-Roll-Sim\bin\Debug\net7.0\Dice-Roll-Sim.runtimeconfig.json
+\\fs-059\studuser$\Gr12\w.veale\GitHub\Dice-Roll-Sim\bin\Debug\net7.0\Dice-Roll-Sim.dll
+\\fs-059\studuser$\Gr12\w.veale\GitHub\Dice-Roll-Sim\bin\Debug\net7.0\Dice-Roll-Sim.pdb
+\\fs-059\studuser$\Gr12\w.veale\GitHub\Dice-Roll-Sim\obj\Debug\net7.0\Dice-Roll-Sim.csproj.AssemblyReference.cache
+\\fs-059\studuser$\Gr12\w.veale\GitHub\Dice-Roll-Sim\obj\Debug\net7.0\Dice-Roll-Sim.GeneratedMSBuildEditorConfig.editorconfig
+\\fs-059\studuser$\Gr12\w.veale\GitHub\Dice-Roll-Sim\obj\Debug\net7.0\Dice-Roll-Sim.AssemblyInfoInputs.cache
+\\fs-059\studuser$\Gr12\w.veale\GitHub\Dice-Roll-Sim\obj\Debug\net7.0\Dice-Roll-Sim.AssemblyInfo.cs
+\\fs-059\studuser$\Gr12\w.veale\GitHub\Dice-Roll-Sim\obj\Debug\net7.0\Dice-Roll-Sim.csproj.CoreCompileInputs.cache
+\\fs-059\studuser$\Gr12\w.veale\GitHub\Dice-Roll-Sim\obj\Debug\net7.0\Dice-Roll-Sim.dll
+\\fs-059\studuser$\Gr12\w.veale\GitHub\Dice-Roll-Sim\obj\Debug\net7.0\refint\Dice-Roll-Sim.dll
+\\fs-059\studuser$\Gr12\w.veale\GitHub\Dice-Roll-Sim\obj\Debug\net7.0\Dice-Roll-Sim.pdb
+\\fs-059\studuser$\Gr12\w.veale\GitHub\Dice-Roll-Sim\obj\Debug\net7.0\Dice-Roll-Sim.genruntimeconfig.cache
+\\fs-059\studuser$\Gr12\w.veale\GitHub\Dice-Roll-Sim\obj\Debug\net7.0\ref\Dice-Roll-Sim.dll
